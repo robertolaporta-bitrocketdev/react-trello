@@ -1,0 +1,7 @@
+nav {
+  margin: auto;
+  width: 1050px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: end;
+}

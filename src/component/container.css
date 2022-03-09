@@ -1,0 +1,16 @@
+.container {
+  margin: auto;
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 1000px;
+  height: 500px;
+  /* background-color: #8d21f1; */
+}
+
+button:hover {
+  background-color: rgb(179, 179, 179);
+  color: #272727;
+}
